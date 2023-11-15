@@ -20,7 +20,7 @@
 - [Online Courses](#online-courses)
 - [GitHub Badges](#github-badges)
 - [Other Useful Links](#other-useful-links)
-- [🌟 Contributors 🌟](#contributors)
+- [🌟 Creator 🌟](#creator)
 
 
 ### Development Tools
@@ -432,7 +432,7 @@ A comprehensive list of resources for React development including UI components,
 * [Web Programming](https://open.cs.uwaterloo.ca/web-programming/) - Centre for Education in Math and Computing (University of Waterloo)
 
 
-### Contributors
+### Creator
 
 | Name             | Description 📓                             | Link ↘️                                  |
 |------------------|--------------------------------------------|-----------------------------------------|
