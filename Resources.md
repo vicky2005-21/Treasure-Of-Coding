@@ -1,33 +1,34 @@
-# 📚 Awesome Software Development 📚 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# 🚀 Awesome Software Development Resources 🚀
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![Check It Out](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
-📝 **Curated List Of Awesome Software Development Resources** 💯 🔥
+📝 **A Curated List of Exceptional Software Development Resources** 💯 🔥
 
 ### Table of Contents
 
 - [Development Tools](#development-tools)
-- [Front-End Resources](#front-end-resources)
-- [JS Resources](#js-resources)
-- [React Resources](#react-resources)
-- [🖥 Back End Resources 🖥](#back-end-resources)
+- [Front-End Development](#front-end-development)
+- [JavaScript Resources](#javascript-resources)
+- [React.js](#reactjs)
+- [Back-End Development](#back-end-development)
 - [Web Development](#web-development)
 - [Data Science](#data-science)
-- [Design Resources 🎨](#design-resources)
-- [⏯ Youtube Channels ⏯](#youtube-channels)
-- [Recommended Courses](#recommended-courses)
-- [📛 Github Badges 📛](#github-badges)
-- [🔗 Other Links 🔗](#other-links)
+- [Design and UX](#design-and-ux)
+- [YouTube Channels](#youtube-channels)
+- [Online Courses](#online-courses)
+- [GitHub Badges](#github-badges)
+- [Other Useful Links](#other-useful-links)
 - [🌟 Contributors 🌟](#contributors)
+
 
 ### Development Tools
 
 | Name               | Description 📓                                                                         | Link ↘️                                |
 |--------------------|----------------------------------------------------------------------------------------|---------------------------------------|
 | Visual Studio Code | Lightweight but powerful code editor                                                   | https://code.visualstudio.com/        |
-| Brackets           | Code editor with focus on web development                                              | http://brackets.io                   |
+| Brackets           | Code editor with a focus on web development                                              | http://brackets.io                   |
 | Sublime Text       | A sophisticated text editor for code, markup and prose                                 | https://www.sublimetext.com/          |
 | Atom               | Modern code editor with many plugins                                                   | https://nodejs.org/en/                |
 | Android Studio     | An powerfull IDE for Developing Android Applications                                   | https://developer.android.com/studio/ |
