@@ -9,17 +9,16 @@
 ### Table of Contents
 
 - [Development Tools](#development-tools)
-- [Front-End Development](#front-end-development)
+- [Front-End Development](#front-end-resources)
 - [JavaScript Resources](#javascript-resources)
 - [React.js](#react-resources)
-- [Back-End Development](#Back-End-Resources)
+- [Back-End Development](#back-end-resources)
 - [Web Development](#web-development)
 - [Data Science](#data-science)
-- [Design and UX](#design-and-ux)
+- [Design and UX](#diagram-resources)
 - [YouTube Channels](#youtube-channels)
-- [Online Courses](#online-courses)
-- [GitHub Badges](#github-badges)
-- [Other Useful Links](#other-useful-links)
+- [Online Courses](#recommended-courses)
+- [Other Useful Links](#other-links)
 - [🌟 Creator 🌟](#creator)
 
 
