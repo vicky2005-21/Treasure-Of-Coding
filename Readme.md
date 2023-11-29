@@ -12,7 +12,7 @@
 - [Front-End Development](#front-end-development)
 - [JavaScript Resources](#javascript-resources)
 - [React.js](#reactjs)
-- [Back-End Development](#back-end-development)
+- [Back-End Development](#Back-End-Resources)
 - [Web Development](#web-development)
 - [Data Science](#data-science)
 - [Design and UX](#design-and-ux)
