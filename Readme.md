@@ -11,7 +11,7 @@
 - [Development Tools](#development-tools)
 - [Front-End Development](#front-end-development)
 - [JavaScript Resources](#javascript-resources)
-- [React.js](#reactjs)
+- [React.js](#react-resources)
 - [Back-End Development](#Back-End-Resources)
 - [Web Development](#web-development)
 - [Data Science](#data-science)
